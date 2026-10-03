@@ -1,2 +1,2 @@
-demo for merge conflict
+demo for merge conflicts
 
